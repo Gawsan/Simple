@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//like a bill 
 int main(void) {
   //varible declare
  int salary,fuel,food,printing,expense,total_expense;
